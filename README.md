@@ -18,6 +18,6 @@ Iniciante em linguagem de programação, apaixonado por tecnologia e games.
 
 ### GitHub Stats
 
-![Adriano Duzanjos stats](https://github-readme-stats.vercel.app/api?username=Duzanjos&theme=transparent&bg_color=151A28&border_color=FFFFFF&show_icons=true&icon_color=FFFFFF&title_color=8957B2&text_color=92D534&hide_title=true)
+![Adriano Duzanjos stats](https://github-readme-stats.vercel.app/api?username=Duzanjos&show_icons=true&theme=darcula)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Duzanjos&layout=compact&bg_color=151A28&border_color=FFFFFF&title_color=8957B2&text_color=92D534&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duzanjos&show_icons=true&theme=darcula)
