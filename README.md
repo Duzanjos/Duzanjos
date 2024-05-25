@@ -21,8 +21,3 @@ Iniciante em linguagem de programação, apaixonado por tecnologia e games.
 ![Adriano Duzanjos stats](https://github-readme-stats.vercel.app/api?username=Duzanjos&theme=transparent&bg_color=151A28&border_color=FFFFFF&show_icons=true&icon_color=FFFFFF&title_color=8957B2&text_color=92D534&hide_title=true)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Duzanjos&layout=compact&bg_color=151A28&border_color=FFFFFF&title_color=8957B2&text_color=92D534&hide_title=true)
-
-
-### Meus Principais Desafios de Projeto na plataforma DIO
-
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Duzanjos&repo=dio-lab-open-source&bg_color=151A28&border_color=FFFFFF&show_icons=true&icon_color=92D534&title_color=8957B2&text_color=92D534)](https://github.com/Duzanjos/dio-lab-open-source)
