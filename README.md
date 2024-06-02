@@ -1,4 +1,4 @@
-# Adriano Anjos
+# Adriano Duzanjos
 
 Iniciante em linguagem de programação, apaixonado por tecnologia e games.
 
